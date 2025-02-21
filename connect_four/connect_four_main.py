@@ -1,6 +1,6 @@
 def main():
     """Connect four main game"""
-    pass
+    print("Connect 4 game")
 
 if __name__=='__main__':
     main()
