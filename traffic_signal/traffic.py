@@ -1,3 +1,5 @@
+#code to simulate a traffic light
+
 def main():
     pass
 
