@@ -1,4 +1,5 @@
 #code to simulate a traffic light
+import textlight
 
 def main():
     pass
