@@ -1,4 +1,5 @@
 #button for elevator
+#press up for UP, press down for DOWN
 
 def main():
     pass
