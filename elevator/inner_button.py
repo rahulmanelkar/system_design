@@ -1,7 +1,7 @@
 #button inside the elevator
 
 class Floor:
-    #class for floor
+    #class for floor to track floor state
     def __init__(self):
         pass
 
