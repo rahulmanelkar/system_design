@@ -2,6 +2,7 @@
 #press up for UP, press down for DOWN
 
 import enum
+import numpy
 
 def main():
     pass
