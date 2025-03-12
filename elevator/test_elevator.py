@@ -1,4 +1,5 @@
 import pytest
+import elevator
 
 def test_elevator():
     pass
