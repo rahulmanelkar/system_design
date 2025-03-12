@@ -1,5 +1,8 @@
 import pytest
 
+def test_elevator():
+    pass
+
 def main():
     pass
 
