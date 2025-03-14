@@ -1,4 +1,4 @@
 import pytest
 
 def main():
-    pass
+    print("this is a test now")
