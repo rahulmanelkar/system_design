@@ -1,4 +1,5 @@
 import pytest
+import numpy
 
 def main():
     print("this is a test now")
