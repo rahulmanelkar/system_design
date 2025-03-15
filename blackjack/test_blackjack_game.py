@@ -1,5 +1,6 @@
 import pytest
 import numpy
+import random
 
 def main():
     print("this is a test now")
