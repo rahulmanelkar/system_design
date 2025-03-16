@@ -1,3 +1,5 @@
+import numpy
+
 def main():
     """Connect four main game"""
     print("Connect 4 game")
