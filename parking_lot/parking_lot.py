@@ -1,5 +1,6 @@
 import car
 import numpy as np
+import matplotlib
 
 def main():
     pass
