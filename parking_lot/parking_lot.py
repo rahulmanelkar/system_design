@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib as mp
 import os
 import tkinter
-import threading
+import threading as Tk
 
 def main():
     pass
