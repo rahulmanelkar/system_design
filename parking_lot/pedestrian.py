@@ -4,7 +4,7 @@ import os
 import re
 import pdb
 import pathlib
-import numpy
+import numpy as np
 
 def main():
     pass
