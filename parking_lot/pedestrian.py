@@ -6,6 +6,7 @@ import pdb
 import pathlib
 import numpy as np
 import matplotlib
+import tkinter
 
 def main():
     pass
