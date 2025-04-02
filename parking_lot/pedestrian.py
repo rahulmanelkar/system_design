@@ -6,7 +6,7 @@ import pdb
 import pathlib
 import numpy as np
 import matplotlib
-import tkinter
+import tkinter as tk
 
 def main():
     #This is a pedestrian
