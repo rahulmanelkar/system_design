@@ -10,7 +10,7 @@ import tkinter
 
 def main():
     #This is a pedestrian
-    pass
+    print("This is a ped")
 
 if __name__ == '__main__':
     main()
