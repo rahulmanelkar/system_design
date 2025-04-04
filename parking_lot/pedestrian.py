@@ -11,7 +11,7 @@ import tkinter as tk
 def main():
     #This is a pedestrian
     print("This is a pedestrian")
-    print("Pedes")
+    print("Pedestrian")
 
 if __name__ == '__main__':
     main()
