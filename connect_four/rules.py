@@ -4,7 +4,7 @@ import pathlib
 import matplotlib
 
 def main():
-    print("Bruh")
+    print("Bruh wtf")
 
 if __name__=='__main__':
     pass
