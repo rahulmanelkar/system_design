@@ -2,6 +2,7 @@ import os
 import numpy as np
 import pathlib
 import matplotlib
+import pathlib
 
 def main():
     print("Bruh wtf")
