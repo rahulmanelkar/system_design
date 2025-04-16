@@ -9,4 +9,4 @@ def main():
     print("Fuck this im out mid")
 
 if __name__=='__main__':
-    main()
+    main() #idk man
