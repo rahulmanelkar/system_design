@@ -6,7 +6,7 @@ import pathlib
 
 def main():
     print("Bruh wtf")
-    print("Fuck this im out mid aaaa")
+    print("Fuck this im out mid aaaagggg")
 
 if __name__=='__main__':
     main() #idk man
