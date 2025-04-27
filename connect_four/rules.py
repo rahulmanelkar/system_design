@@ -4,6 +4,7 @@ import pathlib
 import matplotlib
 import pathlib
 import math
+import functools
 
 def main():
     print("Bruh wtf")
