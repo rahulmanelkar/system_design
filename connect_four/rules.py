@@ -12,4 +12,4 @@ def main():
     print("yamete kudasai")
 
 if __name__=='__main__':
-    main() #idk man here
+    main() #idk man here ccc
