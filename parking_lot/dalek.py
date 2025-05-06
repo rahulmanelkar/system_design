@@ -3,3 +3,6 @@ import pathlib
 import numpy as np
 import math
 import matplotlib
+
+def main():
+    pass
