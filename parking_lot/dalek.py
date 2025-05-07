@@ -5,7 +5,7 @@ import math
 import matplotlib
 
 def main():
-    pass
+    print("i am a dalek")
 
 if __name__ == '__main__':
     main()
