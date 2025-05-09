@@ -6,6 +6,7 @@ import matplotlib
 
 def main():
     print("i am a dalek")
+    print()
 
 if __name__ == '__main__':
     main()
