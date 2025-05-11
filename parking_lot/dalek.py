@@ -6,7 +6,7 @@ import matplotlib
 
 def main():
     print("i am a dalek")
-    print("exterminate!!!!!")
+    print("exterminate!!!!!!")
 
 if __name__ == '__main__':
     main()
