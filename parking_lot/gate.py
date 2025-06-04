@@ -1,6 +1,7 @@
 import os
 import pathlib
 import numpy as np
+import matplotlib
 
 def main():
     pass
