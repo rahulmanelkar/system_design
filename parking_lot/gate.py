@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib
 import ast
 import abc
+import pedestrian
 
 def main():
     """main"""
