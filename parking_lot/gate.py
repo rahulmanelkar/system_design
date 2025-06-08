@@ -5,7 +5,7 @@ import matplotlib
 import ast
 import abc
 import pedestrian
-import pandas
+import pandas as pd
 
 def main():
     """main"""
